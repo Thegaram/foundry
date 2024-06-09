@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["EofDecodeError"],"struct":["Eof","EofBody","EofHeader","TypesSection"]};
